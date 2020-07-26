@@ -22,7 +22,7 @@
 1.打開Terminal，複製此專案至本地端
 
 ```
-git clone https://github.com/ponyma2100/restaurant-list/
+git clone https://github.com/michaelnctu/restaurant-list.git
 ```
 
 2.開啟Terminal，進入存放此專案的資料夾
